@@ -8,3 +8,9 @@ frequently if any major fixes or updates are gonna be set.**
 
 # Respository.code
 `lunar/main` → `lunar/code`
+
+# Code
+This code is modified when a new patch/update is release.
+
+# Version-timestamp
+> `0.0.1` - Release.
